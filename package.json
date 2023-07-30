@@ -1,0 +1,24 @@
+{
+  "name": "pc-backend",
+  "version": "1.0.0",
+  "description": "Computer Parts Backend",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "dev": "nodemon src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/cors": "^2.8.13",
+    "@types/express": "^4.17.17",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^5.7.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}

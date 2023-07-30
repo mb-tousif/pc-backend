@@ -1,0 +1,383 @@
+[
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core i5 13600K-01-500x500.webp",
+    "name": "Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+    "category": "CPU",
+    "Price": "36,000৳",
+    "Status": "In Stock",
+    "rating": "4.3",
+    "Brand": "INTEL",
+    "keyFeatures": [
+      "Model: Core i5 13600K",
+      "Clock Speed: 3.50 GHz up to 5.10 GHz",
+      "Cache: 24 MB, Socket: LGA1700",
+      "CPU Cores: 14, CPU Threads: 20",
+      "Graphics: Intel UHD Graphics 770"
+    ],
+    "description": "Intel 13th Gen Core i5 13600K Raptor Lake Processor"
+  },
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-500x500.webp",
+    "name": "Intel Pentium Gold G6405 Coffee Lake Processor",
+    "category": "CPU",
+    "Price": "7,000৳",
+    "Status": "In Stock",
+    "rating": "4.5",
+    "Brand": "INTEL",
+    "keyFeatures": [
+      "Model: Intel Pentium Gold G6405",
+      "Socket Supported FCLGA1200",
+      "Speed 4.10 GHz, Cores- 2 & Threads- 4",
+      "4M Intel Smart Cache",
+      "Intel UHD Graphics 610"
+    ],
+    "description": "Intel Pentium Gold G6405 Coffee Lake Processor"
+  },
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-500x500.jpg",
+    "name": "AMD Athlon 200GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics",
+    "category": "CPU",
+    "Price": "7,000৳",
+    "Status": "In Stock",
+    "rating": "4.3",
+    "Brand": "AMD",
+    "keyFeatures": [
+      "Model: Athlon 200GE",
+      "Base Clock Speed 3.2GHz",
+      "Package AM4",
+      "PCI Express PCIe 3.0"
+    ],
+    "description": "AMD Athlon 200GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics "
+  },
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10100/i3-10100-500x500.jpg",
+    "name": "Intel 10th Gen Core i3 10100F Processor",
+    "category": "CPU",
+    "Price": "8,200৳",
+    "Status": "In Stock",
+    "rating": "3.5",
+    "Brand": "INTEL",
+    "keyFeatures": [
+      "Model: Intel Core i3 10100F",
+      "Socket  Supported FCLGA1200",
+      "Speed 3.60 up to 4.30 GHz",
+      "Cores- 4 & Threads- 8",
+      "6M Intel Smart  Cache"
+    ],
+    "description": "Intel 10th Gen Core i3 10100F Processor"
+  },
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/Motherboard/Gigabyte/GIGABYTE GA-J1800M-D3P/GIGABYTE GA-J1800M-D3P-1-500x500.jpg",
+    "name": "GIGABYTE GA-J1800M-D3P Motherboard with Built In 2.41Ghz DDR3 Celeron Processor",
+    "Price": "6,500৳",
+    "Status": "In Stock",
+    "category": "Motherboard",
+    "rating": "4.3",
+    "Brand": "GIGABYTE",
+    "keyFeatures": [
+      "Model: GIGABYTE GA-J1800M-D3P",
+      "Intel Dual-Core Celeron J1800 SoC (2.41 GHz)",
+      "2 x DDR3 DIMM Dual Memory",
+      "1 x PCI Express x16 slot, running at x1",
+      "1 x Trusted Platform Module (TPM) header"
+    ],
+    "description": "GIGABYTE GA-J1800M-D3P Motherboard with Built In 2.41Ghz DDR3 Celeron Processor"
+  },
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/motherboard/biostar/h510mhp/h510mhp-01-500x500.webp",
+    "name": "BIOSTAR H510MHP 10th and 11th Gen Micro ATX Motherboard",
+    "Price": "7,300৳",
+    "Status": "In Stock",
+    "category": "Motherboard",
+    "rating": "4.5",
+    "Brand": "BIOSTAR",
+    "keyFeatures": [
+      "Model: H510MHP",
+      "Supported CPU: 10th /11th Generation Intel Core Processor",
+      "Supported RAM: 2x DIMM, DDR4 3200 up to 64 GB",
+      "Graphics Output: 1 x HDMI, 1 x VGA Port",
+      "Features: 1 x M.2 Slot, Realtek ALC887"
+    ],
+    "description": "BIOSTAR H510MHP 10th and 11th Gen Micro ATX MotherboardBuy BIOSTAR H510MHP 10th and 11th Gen Micro ATX Motherboard from the best Motherboard Shop in BD"
+  },
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/motherboard/gigabyte/ga-h81m-ds2/ga-h81m-ds2-1-500x500.jpg",
+    "name": "Gigabyte GA-H81M-DS2 Micro ATX Motherboard",
+    "Price": "7,800৳",
+    "Status": "In Stock",
+    "category": "Motherboard",
+    "rating": "4.3",
+    "Brand": "GIGABYTE",
+    "keyFeatures": [
+      "Model: GA-H81M-DS2",
+      "CPU: 4th Generation Intel Processors",
+      "Chipset: Intel H81 Express",
+      "2 x 1.5V DDR3",
+      "3 x PCI Express slot"
+    ],
+    "description":"Gigabyte GA-H81M-DS2 Micro ATX ultra durable motherboard has the compatibility with 4th gen Intel processors."
+  },
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300/p300-01-500x500.webp",
+    "name": "Toshiba P300 2TB 3.5-Inch SATA 7200RPM Desktop HDD",
+    "Price": "5,900৳",
+    "category": "Storage Device",
+    "rating": "5.0",
+    "Status": "In Stock",
+    "Brand": "Toshiba",
+    "keyFeatures": [
+      "MPN: HDWD320UZSVA",
+      "Model: P300",
+      "Capacity: 2TB 7200RPM",
+      "Interface: SATA 6Gb/s",
+      "Buffer: 128MB",
+      "Form Factor: 3.5 Inch"
+    ],
+    "description": "Toshiba P300 2TB 3.5-Inch SATA 7200RPM Desktop HDDBuy Toshiba P300 2TB 3.5-Inch SATA 7200RPM HDD from the best Hard Disk Shop in BD"
+  },
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-2tb-surveillance/skyhawk-2tb-surveillance-01-500x500.webp",
+    "name": "Seagate Skyhawk 2TB 3.5. Surveillance HDD",
+    "Price": "7,100৳",
+    "category": "Storage Device",
+    "rating": "4.0",
+    "Status": "In Stock",
+    "Brand": "Seagate",
+    "keyFeatures": [
+      "MPN: ST2000VX015",
+      "Model: Skyhawk 2TB",
+      "Capacity: 2TB Storage",
+      "SATA III 6 Gb/s Interface, 256MB Cache",
+      "600,000 Load/Unload Cycles",
+      "Designed for 24/7 Surveillance, Supports up to 64 HD Cameras"
+    ],
+    "description": "Seagate Skyhawk 2TB 3.5. Surveillance HDDBuy Seagate Skyhawk 2TB 3.5. Surveillance HDD from the best Hard Disk Shop in BD"
+  },
+  {
+    "images": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-6tb-surveillance/skyhawk-6tb-surveillance-01-500x500.webp",
+    "name": "Seagate Skyhawk 6TB 3.5. Surveillance HDD",
+    "Price": "16,000৳",
+    "category": "Storage Device",
+    "rating": "4.1",
+    "Status": "In Stock",
+    "Brand": "Seagate",
+    "keyFeatures": [
+      "MPN: ST6000VX001",
+      "Model: Skyhawk 6TB",
+      "Capacity: 6TB Storage",
+      "SATA III 6 Gb/s Interface, 256MB Cache",
+      "300,000 Load/Unload Cycles",
+      "Designed for 24/7 Surveillance, Supports up to 64 HD Cameras"
+    ],
+    "description": "Seagate Skyhawk 6TB 3.5. Surveillance HDDBuy Seagate Skyhawk 6TB 3.5. Surveillance HDD from the best Hard Disk Shop in BD"
+  },
+  {
+    "category": "RAM",
+    "rating": "4.3",
+    "images": "https://www.startech.com.bd/image/cache/catalog/ram/team/elite-plus-red/elite-plus-red-02-500x500.webp",
+    "name": "Team Elite Plus Red 16GB 3200MHz DDR4 U-DIMM Desktop RAM",
+    "Price": "4,075৳",
+    "Status": "In Stock",
+    "Brand": "Team",
+    "keyFeatures": [
+      "MPN: TPRD416G3200HC2201",
+      "Model: Elite Plus Red",
+      "Capacity: 16GB DDR4",
+      "Frequency: 3200MHz",
+      "Speed: 25,600 MB/s (PC4 25600)",
+      "CAS Latency: CL22-22-22-52 1.2V"
+    ],
+    "description": "Team Elite Plus Red 16GB 3200MHz DDR4 U-DIMM Desktop RAM"
+  },
+  {
+    "category": "RAM",
+    "name": "G.SKILL Value 8GB DDR4 2666Mhz Desktop RAM",
+    "rating": "4.6",
+    "images": "https://www.startech.com.bd/image/cache/catalog/ram/gskill/value/value-01-500x500.webp",
+    "Price": "2,400৳",
+    "Status": "In Stock",
+    "Brand": "G.SKILL",
+    "keyFeatures": [
+      "MPN: F4-2666C19S-8GNT",
+      "Model: Value",
+      "Capacity: 8GB",
+      "Speed: 2666 Mhz",
+      "Latency: 17-17-17-39",
+      "Voltage: 1.20V"
+    ],
+    "description": "G.SKILL Value 8GB DDR4 2666Mhz Desktop RAMBuy G.SKILL Value 8GB DDR4 2666Mhz RAM from best RAM Shop in BD"
+  },
+  {
+    "category": "RAM",
+    "rating": "3.8",
+    "images": "https://www.startech.com.bd/image/cache/catalog/ram/kingston/fury-beast/fury-beast-01-500x500.jpg",
+    "name": "Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM",
+    "Price": "2,350৳",
+    "Status": "In Stock",
+    "Brand": "Kingston",
+    "keyFeatures": [
+      "MPN: KF432C16BB/8",
+      "Model: FURY Beast",
+      "Frequency: 3200MHz; CAS Latency: 16-18-18",
+      "Voltage: 1.35V; Form Factor: UDIMM",
+      "Operating Temperature : 0Â°C to 85Â°C",
+      "Dimensions: 133.35mm x 34.1mm x 7.2mm"
+    ],
+    "description": "Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAMBuy Kingston FURY Beast 8GB 3200MHz DDR4 Desktop RAM from best RAM Shop in BD"
+  },
+  {
+    "category": "Power Supply Unit",
+    "rating": "3.8",
+    "images": "https://www.startech.com.bd/image/cache/catalog/power-supply/revenger/vp-350/vp-350-01-500x500.webp",
+    "name": "Revenger VP 350 Watt Power Supply",
+    "Price": "1,400৳",
+    "Status": "In Stock",
+    "Brand": "Revenger",
+    "keyFeatures": [
+      "Model: VP 350",
+      "Continues Power: 350W",
+      "Fan: 120 mm",
+      "Special dust protection",
+      "Super ventilation"
+    ],
+    "description": "Revenger VP 350 Watt Power SupplyBuy Revenger VP 350 Watt Power Supply from the best Power Supply Shop in BD"
+  },
+  {
+    "category": "Power Supply Unit",
+    "rating": "4.9",
+    "images": "https://www.startech.com.bd/image/cache/catalog/power-supply/fsp/hydro-k-pro-500w/hydro-k-pro-500w-500x500.webp",
+    "name": "FSP Hydro K PRO 500W 80 Plus Bronze Power Supply",
+    "Price": "4,300৳",
+    "Status": "In Stock",
+    "Brand": "FSP",
+    "keyFeatures": [
+      "Model: Hydro K PRO 500W",
+      "Rated Output Power: 500W",
+      "Fan Type: HYB Fan, 120mm",
+      "Form Factor: ATX",
+      "High efficiency ≧ 88%"
+    ],
+    "description": "FSP Hydro K PRO 500W 80 Plus Bronze Power SupplyBuy FSP Hydro K PRO 500W 80 Plus Bronze Power Supply from Star Tech"
+  },
+  {
+    "category": "Power Supply Unit",
+    "rating": "3.3",
+    "images": "https://www.startech.com.bd/image/cache/catalog/power-supply/fsp/hydro-k-pro-500w/hydro-k-pro-500w-500x500.webp",
+    "name": "FSP Hydro K PRO 750W 80 Plus Bronze Power Supply",
+    "Price": "6,500৳",
+    "Status": "In Stock",
+    "Brand": "FSP",
+    "keyFeatures": [
+      "Model: Hydro K PRO 750W",
+      "Rated Output Power: 750W",
+      "Fan Type: HYB Fan, 120mm",
+      "Form Factor: ATX",
+      "High efficiency ≧ 88%"
+    ],
+    "description": "FSP Hydro K PRO 750W 80 Plus Bronze Power SupplyBuy FSP Hydro K PRO 750W 80 Plus Bronze Power Supply from Star Tech"
+  },
+  {
+    "category": "Monitor",
+    "rating": "3.1",
+    "images": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/v196hql/acer-v196hql-monitor-500x500.JPG",
+    "name": "Acer V196HQL 18.5\" HD LED Monitor (VGA, HDMI)",
+    "Price": "7,999৳8,700৳",
+    "Status": "In Stock",
+    "Brand": "Acer",
+    "keyFeatures": [
+      "Model: V196HQL",
+      "Resolution: HD (1366 x 768)",
+      "Display: TN, 60Hz, 5ms",
+      "Ports: VGA, HDMI",
+      "Features: Flicker Free, Eye Care"
+    ],
+    "description": "Acer V196HQL 18.5\" HD LED Monitor (VGA, HDMI)"
+  },
+  {
+    "category": "Monitor",
+    "rating": "4.7",
+    "images": "https://www.startech.com.bd/image/cache/catalog/monitor/acer/eb192q/eb192q-01-500x500.jpg",
+    "name": "Acer EB192Q 18.5 Inch HD Monitor",
+    "Price": "8,399৳8,800৳",
+    "Status": "In Stock",
+    "Brand": "Acer",
+    "keyFeatures": [
+      "Model: EB192Q",
+      "Resolution: HD (1366 x 768)",
+      "Display: TN, 60Hz, 5ms",
+      "Ports: VGA",
+      "Features: Vesa Mount Support"
+    ],
+    "description": "Acer EB192Q 18.5 Inch HD Backlit LED LCD Monitor (VGA Port)"
+  },
+  {
+    "category": "Monitor",
+    "rating": "2.0",
+    "images": "https://www.startech.com.bd/image/cache/catalog/monitor/hp-monitor/P204v/P204v-500x500.jpg",
+    "name": "HP P204v 19.5 Inch HD LED Monitor (HDMI, VGA)",
+    "Price": "8,900৳",
+    "Status": "In Stock",
+    "Brand": "HP",
+    "keyFeatures": [
+      "MPN: 5RD66AA",
+      "Model: P204v",
+      "Resolution: HD (1600 x 900)",
+      "Display: TN, 60Hz, 5ms",
+      "Ports: HDMI, VGA",
+      "Features: Anti-glare"
+    ],
+    "description": "HP P204v 19.5 Inch HD LED Monitor (HDMI, VGA)"
+  },
+  {
+    "category": "Other",
+    "rating": "2.0",
+    "images": "https://www.startech.com.bd/image/cache/catalog/mouse/xtreme/m288/m288-01-500x500.webp",
+    "name": "Xtreme M288 USB Wired Optical Mouse",
+    "Price": "280৳",
+    "Status": "In Stock",
+    "Brand": "Xtreme",
+    "keyFeatures": [
+      "Model: M288",
+      "Mouse Type: Optical",
+      "Number of buttons: 2",
+      "Resolution: 1000 DPI",
+      "Interface: USB"
+    ],
+    "description": "Xtreme M288 USB Wired Optical Mouse"
+  },
+  {
+    "category": "Other",
+    "rating": "2.4",
+    "images": "https://www.startech.com.bd/image/cache/catalog/headphone/hoco/w35/w35-01-500x500.jpg",
+    "name": "Hoco W35 Wireless Headphone",
+    "Price": "1,370৳",
+    "Status": "In Stock",
+    "Brand": "Hoco",
+    "keyFeatures": [
+      "Model: W35",
+      "Bluetooth: 5.3",
+      "Battery capacity: 400mah",
+      "Charging about 2 hours",
+      "Use or tempo: 40 hours"
+    ],
+    "description": "Hoco W35 Wireless Headphone"
+  },
+  {
+    "category": "Other",
+    "rating": "4.6",
+    "images": "https://www.startech.com.bd/image/cache/catalog/headphone/logitech/h390/h390-500x500.webp",
+    "name": "Logitech H390 Stereo USB Headset White with Microphone",
+    "Price": "4,200৳",
+    "Status": "In Stock",
+    "Brand": "Logitech",
+    "keyFeatures": [
+      "MPN: 981001287",
+      "Model: H390",
+      "Microphone Type: Bi-directional",
+      "30 mm audio drivers",
+      "USB-A connector",
+      "Cable Length 6.23 feet"
+    ],
+    "description": "Logitech H390 Stereo USB Headset White with Microphone Buy Logitech H390 Stereo USB Headset White with Microphone from Star Tech"
+  }
+]
